@@ -1,6 +1,6 @@
-<mxfile type="github" version="12.8.4" host="app.diagrams.net" modified="2020-03-12T22:36:52.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="MQQLBf8h9Icye9zkZj-R">
+<mxfile type="github" version="12.8.4" host="app.diagrams.net" modified="2020-03-12T22:43:38.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="u6GOaT2hyst-LV-BJaoP">
   <diagram id="BwDKmyLNI1KqZc9jXRQb" name="Page-1">
-    <mxGraphModel grid="1" dx="3683" dy="6" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
+    <mxGraphModel grid="1" dx="4795" dy="648" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,9 +123,6 @@
         </mxCell>
         <mxCell id="NfXFw1aVSQLSVC3R290Q-502" value="&lt;ol style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;BD_JCDT&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;CATALOGOS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;db_A_Quejas_Reparaciones&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;DB_Agenda_Diaria&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;DB_Domicilios&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;db_GAS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009999&quot; style=&quot;font-size: 11px&quot;&gt;DB_Incumplimientos_Serv&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009999&quot; style=&quot;font-size: 11px&quot;&gt;DB_KM_Repa&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;db_Origen&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;db_PCSuscriptores&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009999&quot; style=&quot;font-size: 11px&quot;&gt;DB_Project_ServiciosCC_CA&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009999&quot; style=&quot;font-size: 11px&quot;&gt;db_Promociones&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009999&quot; style=&quot;font-size: 11px&quot;&gt;db_Ranking_M_CA&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009999&quot; style=&quot;font-size: 11px&quot;&gt;db_Recargas&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;db_Recurrencia_Recargas&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;DB_Reporte_LNBs&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;DB_Semaforo&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009999&quot; style=&quot;font-size: 11px&quot;&gt;db_SMS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;EUCR_Operaciones&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#009999&quot; style=&quot;font-size: 11px&quot;&gt;INGRESOS_CSS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Marcador&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;QUEJAS_GESTOR&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Recuperaciones_CA&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;ReportServer&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;ReportServerTempDB&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;SADFSADFAS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;test&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=15;fontColor=#FF0000;textDirection=ltr;labelPosition=left;verticalLabelPosition=middle;" vertex="1">
           <mxGeometry as="geometry" height="20" width="40" y="1200" x="940" />
-        </mxCell>
-        <mxCell id="NfXFw1aVSQLSVC3R290Q-507" value="&lt;font color=&quot;#10739e&quot; style=&quot;font-size: 9.5px&quot;&gt;&lt;b&gt;Comunicados&lt;/b&gt;&lt;/font&gt;" parent="1" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=3;fontSize=15;align=center;fillColor=#dae8fc;" vertex="1">
-          <mxGeometry as="geometry" height="65" width="65" y="1230" x="20" />
         </mxCell>
         <mxCell id="NfXFw1aVSQLSVC3R290Q-562" value="&lt;font color=&quot;#7ea6e0&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;1&lt;/b&gt;&lt;/font&gt;" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#7EA6E0;strokeWidth=4;fillColor=#FFFFFF;fontSize=11;fontColor=#9673A6;align=center;" vertex="1">
           <mxGeometry as="geometry" height="35" width="35" y="1806" x="-1923" />
@@ -498,13 +495,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QWXc0pWjMCgm2C6_G6eT-128" value="&lt;font color=&quot;#000000&quot;&gt;Carga&lt;br&gt;&amp;nbsp;Independiente&lt;/font&gt;" parent="1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.script;fontSize=11;fontColor=#FF0000;" vertex="1">
-          <mxGeometry as="geometry" height="20" width="20" y="1530" x="-2091.63" />
+          <mxGeometry as="geometry" height="20" width="20" y="1520" x="-2091.63" />
         </mxCell>
         <mxCell id="QWXc0pWjMCgm2C6_G6eT-129" value="&lt;font color=&quot;#000000&quot;&gt;Macros Excel&lt;/font&gt;" parent="1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.excel_services;fontSize=11;fontColor=#FF0000;" vertex="1">
           <mxGeometry as="geometry" height="30" width="36.73" y="1600" x="-2099.995" />
         </mxCell>
         <mxCell id="QWXc0pWjMCgm2C6_G6eT-130" value="&lt;font color=&quot;#000000&quot;&gt;Excel&lt;/font&gt;" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png;strokeColor=#7EA6E0;strokeWidth=3;fontSize=11;fontColor=#FF0000;" vertex="1">
-          <mxGeometry as="geometry" height="30" width="30" y="1690" x="-2096.63" />
+          <mxGeometry as="geometry" height="30" width="30" y="1680" x="-2096.63" />
         </mxCell>
         <mxCell id="QWXc0pWjMCgm2C6_G6eT-131" value="&lt;font color=&quot;#7ea6e0&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;1&lt;/b&gt;&lt;/font&gt;" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;strokeColor=#7EA6E0;strokeWidth=4;fillColor=#FFFFFF;fontSize=11;fontColor=#9673A6;align=center;" vertex="1">
           <mxGeometry as="geometry" height="35" width="35" y="1480" x="-1960" />
@@ -704,8 +701,8 @@
             <mxPoint as="sourcePoint" y="1330" x="234.99999999999954" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QWXc0pWjMCgm2C6_G6eT-203" value="" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699193-icon-113-document-file-txt-128.png;strokeColor=#7EA6E0;strokeWidth=3;fontSize=11;fontColor=#FF0000;" vertex="1">
-          <mxGeometry as="geometry" height="30" width="30" y="1770" x="-2098" />
+        <mxCell id="QWXc0pWjMCgm2C6_G6eT-203" value="&lt;font color=&quot;#000000&quot;&gt;Txt&lt;/font&gt;" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699193-icon-113-document-file-txt-128.png;strokeColor=#7EA6E0;strokeWidth=3;fontSize=11;fontColor=#FF0000;" vertex="1">
+          <mxGeometry as="geometry" height="30" width="30" y="1760" x="-2098" />
         </mxCell>
         <mxCell id="QWXc0pWjMCgm2C6_G6eT-205" value="" parent="1" style="group" vertex="1" connectable="0">
           <mxGeometry as="geometry" height="95" width="85" y="1410" x="420.0000000000001" />
@@ -793,6 +790,18 @@
             <mxPoint as="sourcePoint" y="1869.9966666666664" x="185.53690647482062" />
             <mxPoint as="targetPoint" y="1842.5520382004656" x="138.55203820046563" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QWXc0pWjMCgm2C6_G6eT-228" value="" parent="1" style="group" vertex="1" connectable="0">
+          <mxGeometry as="geometry" height="75" width="70" y="1220" x="20" />
+        </mxCell>
+        <mxCell id="NfXFw1aVSQLSVC3R290Q-507" value="&lt;font color=&quot;#10739e&quot; style=&quot;font-size: 9.5px&quot;&gt;&lt;b&gt;Comunicados&lt;/b&gt;&lt;/font&gt;" parent="QWXc0pWjMCgm2C6_G6eT-228" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;labelBackgroundColor=none;strokeColor=#6c8ebf;strokeWidth=3;fontSize=15;align=center;fillColor=#dae8fc;" vertex="1">
+          <mxGeometry as="geometry" height="65" width="65" y="10" />
+        </mxCell>
+        <mxCell id="QWXc0pWjMCgm2C6_G6eT-227" value="" parent="QWXc0pWjMCgm2C6_G6eT-228" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.mail_user;fontSize=11;fontColor=#FF0000;" vertex="1">
+          <mxGeometry as="geometry" height="30" width="30" x="40" />
+        </mxCell>
+        <mxCell id="QWXc0pWjMCgm2C6_G6eT-229" value="&lt;font color=&quot;#000000&quot;&gt;A solicitud&lt;/font&gt;" parent="1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.mail_user;fontSize=11;fontColor=#FF0000;" vertex="1">
+          <mxGeometry as="geometry" height="30" width="30" y="1840" x="-2094" />
         </mxCell>
       </root>
     </mxGraphModel>
